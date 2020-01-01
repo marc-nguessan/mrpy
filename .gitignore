@@ -29,6 +29,7 @@ _minted*
 *.so
 *.txt
 *.tex
+*.plt
 
 __pycache__/
 build/
